@@ -16,7 +16,7 @@
 ***
 
 
-Based on Build CRUD Application - PHP & Mysql Course from Udemy.
+Based on npm - Mastering the Basics Course from Udemy.
 * Course URL: https://www.udemy.com/npm-mastering-the-basics/learn/v4/
 * Course Author: [Vishwas Gopinath](https://www.udemy.com/user/vishwas-gopinath-2/)
 * Course Certified: https://www.udemy.com/certificate/UC-W018548L/
